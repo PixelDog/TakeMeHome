@@ -1,5 +1,5 @@
 # TakeMeHome
-Pet search website with Laravel, Vue.js, and powered by Adopt a Pet.
+This is a pet search website built with Laravel, Vue.js, and powered by Adopt a Pet. Search pets within a 50 mile radius of City, State or Zip Code.
 
 ## Prerequisites
 ```
@@ -31,3 +31,8 @@ NPM: https://www.npmjs.com/
 ```
 ```
 6. npm install for commands such as 'npm run dev' and 'npm run watch' when editing components
+```
+
+## ToDo's
+1) The New Pets Alert form is merely for show right now, and does not have a completed submit method.
+ 
